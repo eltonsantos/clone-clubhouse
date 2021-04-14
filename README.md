@@ -10,6 +10,4 @@
 
 ## Author
 
-**Mayk Brito**
-
-Encontre-me nas redes sociais como @maykbrito
+**Elton Santos**
